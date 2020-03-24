@@ -10,17 +10,17 @@ h1, h2 {
      font-family: 'Noto Sans TC', sans-serif;
 }
 .bg-primary {
-  background-color: blue !important;
+  background-color:#0000FF !important;
 }
 
 .text-primary {
-  color: blue !important;
+  color:#0000FF !important;
 }
 
 a {
-  color: blue;
+  color:#0000FF;
 }
 
 a:hover, a:focus, a:active {
-  color: blue;
+  color:#0000FF;
 }
