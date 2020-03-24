@@ -1,0 +1,26 @@
+body {
+   font-family: 'Noto Sans TC', sans-serif;
+   color:blue
+   }
+h1, h2 {
+ font-family: 'Noto Sans TC', sans-serif;
+ color:blue
+}
+.subheading {
+     font-family: 'Noto Sans TC', sans-serif;
+}
+.bg-primary {
+  background-color: blue !important;
+}
+
+.text-primary {
+  color: blue !important;
+}
+
+a {
+  color: blue;
+}
+
+a:hover, a:focus, a:active {
+  color: blue;
+}
