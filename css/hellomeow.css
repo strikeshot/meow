@@ -10,7 +10,7 @@ h1, h2 {
      font-family: 'Noto Sans TC', sans-serif;
 }
 .bg-primary {
-  background-color: #0000ff;
+  background-color: #0000FF !important;
 }
 
 .text-primary {
