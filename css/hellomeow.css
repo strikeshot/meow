@@ -10,8 +10,8 @@ h1, h2 {
      font-family: 'Noto Sans TC', sans-serif;
 }
 .bg-primary {
-  background-color:#0000FF !important
-     background-image: url("https://www.transparenttextures.com/patterns/argyle.png");
+  background-color:#0000FF;
+  background-image: url("https://www.transparenttextures.com/patterns/argyle.png");
 }
 
 .text-primary {
